@@ -1,2 +1,3 @@
 # CriscatApp
-Proyecto de Desarrollo de Aplicativos Móviles 2021 UPC
+
+Proyecto de Desarrollo de Aplicativos 2021 Móviles UPC
